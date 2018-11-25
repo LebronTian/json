@@ -2,6 +2,9 @@ package cn.jxy.json;
 
 import java.util.Date;
 
+/**
+ * You will better
+ */
 public class Student {
 	private String name;
 	
