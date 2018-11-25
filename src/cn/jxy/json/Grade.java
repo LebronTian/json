@@ -2,6 +2,9 @@ package cn.jxy.json;
 
 import java.util.List;
 
+/**
+ * This is LeBron Tian
+ */
 public class Grade {
 	private Integer id;
 	private String name;
