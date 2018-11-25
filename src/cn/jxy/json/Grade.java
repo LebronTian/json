@@ -24,5 +24,4 @@ public class Grade {
 	public void setStulist(List<Student> stulist) {
 		this.stulist = stulist;
 	}
-
 }
